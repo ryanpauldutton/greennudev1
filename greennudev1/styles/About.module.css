@@ -1,0 +1,16 @@
+.imageOne{
+    height: 100px;
+    width: 100px;
+}
+
+.card {
+    margin-top: 5rem;
+    border-radius: 2rem;
+    overflow: hidden;
+    box-shadow: 15px 20px 40px rgba(216, 211, 211, 0.4);
+  }
+
+  .h1{
+    font-size: 100px;
+    color: blue;
+  }
