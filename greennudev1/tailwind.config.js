@@ -11,9 +11,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        interLight: 'InterLight',
-        interReg: 'interReg',
-        interBold: 'InterBold',
+        Inter: ['Inter', 'sans-serif'],
+        PT: ['PT Sans Narrow', 'sans-serif'],
       },
     },
   },

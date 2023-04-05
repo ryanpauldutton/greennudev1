@@ -3,7 +3,7 @@ import Link from "next/link"
 export default function NavBar(){
     return(
         <>      
-         <nav className="text-2xl font-medium">
+         <nav className="text-2xl font-medium z-10 relative">
             <ul className="flex gap-12">
 <Link rel="stylesheet" href="/" >
     <li>Home</li>
